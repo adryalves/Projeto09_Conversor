@@ -2,6 +2,7 @@
 # Atividade Prática: Controle de LEDs RGB e Display SSD1306 com Joystick no RP2040
 
 ## Link de descrição do vídeo de funcionamento
+https://drive.google.com/file/d/18-wNAECLJKkHegzOfYxyUpze-Rj0xLpj/view?usp=sharing
 
 ## Objetivos
 
